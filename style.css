@@ -7,7 +7,6 @@
 .full-page {
     height: 100%;
     width: 100%;
-    /* background-image: linear-gradient(rgba(0, 0, 0, 0, 4), rgba(0, 0, 0, 0, 4)), url("bg.jpg"); */
     background-image: url("bg.jpg");
     background-position: center;
     background-size: cover;
@@ -30,7 +29,7 @@
 }
 
 nav ul li button {
-    margin-top: 100px;
+    margin-top: 50px;
     margin-left: 42%;
     text-align: center;
     font-size: 30px;
