@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -145,4 +146,11 @@ nav ul li button:hover {
 #signup input {
     color: white;
     font-size: 15;
+}
+.loginbtn{
+    background-color: black;
+    padding: 14px 12px;
+    border-radius: 10px;
+    font-size: 28px;
+    font-family: 'Silkscreen', cursive;
 }
