@@ -30,8 +30,9 @@
 }
 
 nav ul li button {
+    transform: translate(-50%, -50%);
     margin-top: 31px;
-    margin-left: 42%;
+    margin-left: 50%;
     text-align: center;
     font-size: 30px;
     color: rgb(41, 235, 19);
