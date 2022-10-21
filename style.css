@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -87,7 +88,7 @@ nav ul li button:hover {
     position: absolute;
     width: 110px;
     height: 100%;
-    background: #f3c693;
+    background: #75b9f4;
     border-radius: 30px;
     transition: .5s;
 }
@@ -114,7 +115,7 @@ nav ul li button:hover {
     border-left: 0;
     border-right: 0;
     border-top: 0;
-    border-bottom: 1px solid #999;
+    border-bottom: 1px solid rgb(220, 208, 208);
     outline: none;
     background: transparent;
 }
@@ -125,7 +126,7 @@ nav ul li button:hover {
     cursor: pointer;
     display: block;
     margin: auto;
-    background: #f3c693;
+    background: #598cea;
     border: 0;
     outline: none;
     border-radius: 30px;
@@ -136,7 +137,7 @@ nav ul li button:hover {
 }
 
 #signin input {
-    color: white;
+    color: rgb(244, 235, 68);
     font-size: 15;
 }
 
@@ -148,7 +149,8 @@ nav ul li button:hover {
     color: white;
     font-size: 15;
 }
-.loginbtn{
+
+.loginbtn {
     background-color: black;
     padding: 14px 12px;
     border-radius: 10px;
