@@ -88,7 +88,7 @@ nav ul li button:hover {
     position: absolute;
     width: 110px;
     height: 100%;
-    background: #75b9f4;
+    background: #f1ad38;
     border-radius: 30px;
     transition: .5s;
 }
@@ -115,7 +115,7 @@ nav ul li button:hover {
     border-left: 0;
     border-right: 0;
     border-top: 0;
-    border-bottom: 1px solid rgb(220, 208, 208);
+    border-bottom: 1px solid rgb(69, 27, 237);
     outline: none;
     background: transparent;
 }
