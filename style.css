@@ -45,7 +45,7 @@ nav ul li button {
 }
 
 nav ul li button:hover {
-    color: aqua;
+    color: rgba(0,0,0,0.3);
 }
 
 
@@ -151,7 +151,7 @@ nav ul li button:hover {
 }
 
 .loginbtn {
-    background-color: black;
+    background-color: coral;
     padding: 14px 12px;
     border-radius: 10px;
     font-size: 28px;
