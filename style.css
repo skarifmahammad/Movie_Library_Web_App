@@ -36,9 +36,9 @@ nav ul li button {
     margin-left: 50%;
     text-align: center;
     font-size: 50px;
-    color: rgb(41, 235, 19);
+    color: rgb(108, 243, 93);
     outline: none;
-    border: 3px solid #73ad21;
+    border: 3px solid #e6bc30;
     background: transparent;
     cursor: pointer;
     font-family: sans-serif;
@@ -69,7 +69,7 @@ nav ul li button:hover {
     width: 220px;
     margin: 35px auto;
     position: relative;
-    box-shadow: 0 0 20px 9px #ff61241f;
+    box-shadow: 0 0 20px 9px #f5591b1f;
     border-radius: 30px;
 }
 
@@ -88,7 +88,7 @@ nav ul li button:hover {
     position: absolute;
     width: 110px;
     height: 100%;
-    background: #f1ad38;
+    background: #f0a82c;
     border-radius: 30px;
     transition: .5s;
 }
