@@ -33,7 +33,7 @@ img {
 
 .wrapper .container {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0rem 1rem;
     padding: 0 1rem;
 }
 
@@ -332,4 +332,15 @@ img {
         padding-left: 0;
         margin-left: 0;
     }
+}
+
+#loginSignupButton{
+    color: black;
+    font-size: 1.5rem;
+    padding: 0rem 1rem;
+    border: 2px solid white;
+    background-color: rgb(21 239 119);
+    border-radius: 17rem;
+    margin: 0rem 1rem;
+    margin: 0rem 1rem 0rem 77vw;
 }
